@@ -1,4 +1,4 @@
-Project Title
+Scrape World
 ====================
 
 ![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow&label=Built%20with&style=flat&labelColor=black)
@@ -14,7 +14,7 @@ _Show your support and give this repo a_ ⭐
 
 ## Overview
 
-Summarize the project idea and outline your strategy. 
+This repo conatins my solutions to [Srape World](https://scrape.world/) challenges.  
 
 ## Requirements
 
@@ -25,43 +25,12 @@ This project was built using the `Python 3.10.1` and the following modules:
 | `requests`       | 2.7.0   | A simple, yet elegant, HTTP library.                        | 
 | `request-html`   | 0.3.4   | HTTP library, and HTML/XMl processing library.              | 
 | `beautifulsoup4` | 4.9 3   | HTML/XMl processing library.                                | 
-| `Scrapy `        | 2.6.3   | A web-crawling framework.                                   | 
-| `sqlite3`        | _       | Lightweight database for storing results.                   | 
-| `csv`            | _       | Reads and writes tabular data in CSV format.                | 
-| `json`           | _       | Simple JSON decoder.                   | 
+
 
 
 ## Objective
-The objective of this project is ...
 
-## Screenshots
-![image](https://user-images.githubusercontent.com/72005563/181623334-d74b5712-2709-4ccb-925b-f82cab72d8e1.png)
-![image](https://user-images.githubusercontent.com/72005563/181623334-d74b5712-2709-4ccb-925b-f82cab72d8e1.png)
-
-
-## Code Outline
-
-<details>
-<summary>Click to View</summary>
-  
-### STEP 1: DO THIS STEP
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-```python
-import requests
-from bas4 import Beautifulsoup
-```
-### STEP 2: DO THIS STEP
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-```python
-session = HTMLSession()
-page = session.get('https://free-proxy-list.net/').html
-```
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
-
-</details>
+Complete all challenges 
 
 ## Contact me
 
